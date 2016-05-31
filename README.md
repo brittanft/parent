@@ -1,2 +1,2 @@
 # parent
-The maven parent project.
+The Maven parent project.
